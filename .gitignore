@@ -29,3 +29,6 @@ meta*.json
 .claude/*
 !.claude/agents/
 !.claude/skills/
+
+# Playwright MCP snapshots and screenshots
+.playwright-mcp/
